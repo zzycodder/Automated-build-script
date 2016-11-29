@@ -43,9 +43,9 @@ gym --workspace ${workspace_path} --scheme ${scheme} --clean --configuration ${c
 echo "===Finished. Total time: ${SECONDS}s==="
 
 #蒲公英上的User Key
-uKey="4c1fae6816ae743b2fa3debfdf4ebeaf"
+uKey="******************"
 #蒲公英上的API Key
-apiKey="831beb159d6908f453c21c59b8b68c47"
+apiKey="****************"
 #要上传的ipa文件路径
 IPA_PATH="/Users/huang/Documents/output_path/${ipa_name}"
 
