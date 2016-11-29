@@ -1,1 +1,1 @@
-用于XCode项目利用fastlane自动化打包的脚本
+用于Xcode项目利用fastlane自动化打包的脚本
